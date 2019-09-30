@@ -1,4 +1,4 @@
-# Chrome-Extension
+# Social Media access Chrome-Extension
 
 Chrome extension to access your social media profile form any website with just single click. (TESTED)
 
